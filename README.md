@@ -1,0 +1,2 @@
+# Stock-Price-Prediction-And-Forecasting-of-Apple-cmpny-stock-Using-Stacked-LSTM--Deep-Learning.ipynb
+A Deep Learning- future 30 day prediction w LSTM (long short term memory) Model for Stock Market Prediction using Apple company stocks from 2015-2023 borrowed from tiingo site's api collections. Stock market prediction is the act of trying to determine the future value of a company stock or other financial instrument traded on a financial exchange.
